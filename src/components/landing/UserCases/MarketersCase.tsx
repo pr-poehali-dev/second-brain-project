@@ -13,8 +13,7 @@ const MarketersCase = ({ data }: MarketersProps) => {
       </div>
       <div className="flex justify-end">
         <Button className="rounded-full bg-white text-black hover:bg-white/90">
-          <Plus className="mr-2 h-4 w-4" />
-          сохранить в мой второй мозг
+          + Сохранить во Второй Мозг
         </Button>
       </div>
     </div>
